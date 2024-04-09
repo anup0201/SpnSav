@@ -1,13 +1,11 @@
 # spnSav
 
-Notifications to mac
+A flutter app to extract Named entities from transactional messages using Gemini API and store in Drift database.
+
 
 ## Getting Started
 
-
-api_key = AIzaSyAL-bXEFx4xJ0jdeA4UA3WZltfbjyIg1iM
-flutter run --dart-define=API_KEY=AIzaSyAL-bXEFx4xJ0jdeA4UA3WZltfbjyIg1iM
-
+flutter run --dart-define=API_KEY=$API_KEY
 
 // In Android Studio, add the following dependency to your build.gradle.kts file:
 
